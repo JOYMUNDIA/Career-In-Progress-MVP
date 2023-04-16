@@ -202,7 +202,7 @@ a:focus {
 }
 
 .slider_img-box .slider {
-    --s: 350px;
+    --s: 100%;
     /*cubesize*/
     display: grid;
     width: var(--s);
